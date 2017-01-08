@@ -1,0 +1,54 @@
+.title {
+  background-color: #064E8A;
+  height: 200px;
+    }
+.title h1{
+  color: #CACED0;
+  font-family:  Montserrat;
+  padding-top: 60px;
+  font-size: 4em;
+}
+.title p {
+  font-size: 1.5em;
+}
+
+.well {
+  background-color: white;
+}
+body {
+  background-color: #CACED0;
+  position: relative;
+}
+body { padding: 0; }
+.page-header,
+.page-header h1 {
+  margin-top:0;
+  margin-bottom:0;
+}
+.picture {
+  border-radius: 5%;
+  border:3px solid #638494;
+}
+
+.picture-text {
+  border-radius: 5%;
+  border:3px solid #638494;
+  background-color: white;
+}
+@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900);
+[am-LatoSans] {
+  font-family: 'Lato', sans-serif;
+}
+.img-responsive {
+    max-height: 250px;
+}
+
+.thumbnail img {
+   min-height: 200px;
+  }
+
+.navbar {margin-top: 10px;
+margin-bottom: 10px;
+background-color: #064E8A;
+color: black;
+}
